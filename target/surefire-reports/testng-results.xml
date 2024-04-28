@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="2483" started-at="2024-04-20T22:12:27 IST" finished-at="2024-04-20T22:12:29 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="2483" started-at="2024-04-20T22:12:27 IST" finished-at="2024-04-20T22:12:29 IST">
+      <class name="RestAssured.RestAssuredProject.TestRESTAPI">
+        <test-method status="PASS" signature="testAPI()[pri:0, instance:RestAssured.RestAssuredProject.TestRESTAPI@3a5ed7a6]" name="testAPI" duration-ms="1900" started-at="2024-04-20T22:12:27 IST" finished-at="2024-04-20T22:12:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+        <test-method status="PASS" signature="testlistUserAPI()[pri:0, instance:RestAssured.RestAssuredProject.TestRESTAPI@3a5ed7a6]" name="testlistUserAPI" duration-ms="552" started-at="2024-04-20T22:12:29 IST" finished-at="2024-04-20T22:12:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlistUserAPI -->
+      </class> <!-- RestAssured.RestAssuredProject.TestRESTAPI -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
